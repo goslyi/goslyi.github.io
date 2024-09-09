@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://goslyi.github.io/sitemap/sitemap.txt
